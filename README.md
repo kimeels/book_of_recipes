@@ -4,4 +4,4 @@
 * [Guacamole](guacamole.md)
 
 ## Hot sauces
-* [Bolognese](bolognese .md)
+* [Bolognese](bolognese.md)
